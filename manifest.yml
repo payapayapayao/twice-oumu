@@ -1,0 +1,6 @@
+---
+applications:
+ - name: twice-oumu
+   random-route: true
+   memory: 128M
+path: ./twice-oumu/
